@@ -101,7 +101,7 @@ road accidents.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/drowsy_awake/blob/main/IMG_20220125_115121.jpg)
 
 • The power of modern AI is now available for makers, learners, and embedded developers
 everywhere.
